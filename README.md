@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0434-number-of-segments-in-a-string) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
