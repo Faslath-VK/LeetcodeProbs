@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3567-convert-date-to-binary) |
 ## Sorting
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
