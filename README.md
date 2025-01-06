@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
+| [1944-truncate-sentence](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
 | [1651-shuffle-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1651-shuffle-string) |
+| [1944-truncate-sentence](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
