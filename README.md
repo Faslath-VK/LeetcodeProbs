@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0383-ransom-note) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1894-merge-strings-alternately](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1894-merge-strings-alternately) |
