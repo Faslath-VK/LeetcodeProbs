@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2231-find-first-palindromic-string-in-the-array) |
