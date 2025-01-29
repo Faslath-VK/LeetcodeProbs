@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
+| [1205-defanging-an-ip-address](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
