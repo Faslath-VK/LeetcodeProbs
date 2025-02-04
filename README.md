@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2752-sum-multiples](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3567-convert-date-to-binary) |
 ## String
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
 | [1137-height-checker](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1319-unique-number-of-occurrences) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1651-shuffle-string) |
