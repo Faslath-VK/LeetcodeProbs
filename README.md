@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
 | [1137-height-checker](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1137-height-checker) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1137-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
