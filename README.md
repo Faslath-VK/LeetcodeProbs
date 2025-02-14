@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1635-number-of-good-pairs) |
