@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3412-permutation-difference-between-two-strings) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2847-find-maximum-number-of-string-pairs) |
