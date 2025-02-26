@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1635-number-of-good-pairs) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1137-height-checker) |
 | [1970-sorting-the-sentence](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
 | [1137-height-checker](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1137-height-checker) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
