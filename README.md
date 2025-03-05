@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1651-shuffle-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1786-count-the-number-of-consistent-strings) |
