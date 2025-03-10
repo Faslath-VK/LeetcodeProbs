@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0345-reverse-vowels-of-a-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0389-find-the-difference) |
