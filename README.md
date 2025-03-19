@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0387-first-unique-character-in-a-string) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3194-find-words-containing-character) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,12 +202,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2308-divide-array-into-equal-pairs) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1603-running-sum-of-1d-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2107-find-unique-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
