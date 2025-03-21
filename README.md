@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0389-find-the-difference) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
