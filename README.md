@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
+| [0682-baseball-game](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
 | [1137-height-checker](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1319-unique-number-of-occurrences) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
