@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
