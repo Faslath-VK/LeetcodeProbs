@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0682-baseball-game) |
 | [0837-most-common-word](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0837-most-common-word) |
