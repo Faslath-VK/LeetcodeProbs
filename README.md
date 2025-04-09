@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1635-number-of-good-pairs) |
+| [2507-number-of-common-factors](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3567-convert-date-to-binary) |
 ## String
@@ -246,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
