@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2507-number-of-common-factors) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2752-sum-multiples](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3567-convert-date-to-binary) |
 ## String
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2727-number-of-senior-citizens](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3194-find-words-containing-character) |
