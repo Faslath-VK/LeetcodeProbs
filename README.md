@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2752-sum-multiples](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2752-sum-multiples) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3567-convert-date-to-binary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
