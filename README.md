@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1137-height-checker) |
 | [1970-sorting-the-sentence](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
+| [2756-buy-two-chocolates](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2756-buy-two-chocolates) |
 ## Queue
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2727-number-of-senior-citizens](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2727-number-of-senior-citizens) |
+| [2756-buy-two-chocolates](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3194-find-words-containing-character) |
 | [3311-ant-on-the-boundary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3311-ant-on-the-boundary) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2756-buy-two-chocolates](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2756-buy-two-chocolates) |
 ## String Matching
 |  |
 | ------- |
