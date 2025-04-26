@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0242-valid-anagram) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0035-search-insert-position) |
