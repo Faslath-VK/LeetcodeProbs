@@ -3,15 +3,13 @@
  * @return {number[][]}
  */
 var subsets = function(nums) {
-    let subarr  = [[]];
-    for(let i=0;i<nums.length;i++){
-        let newsubset = []
-        for(let j=0;j<subarr.length;j++){
-         
-                newsubset.push([...subarr[j], nums[i]])
-           
-        }
-        subarr.push(...newsubset)
+   let output = [[]];
+   for(let i=0;i<nums.length;i++){
+    let subset = [];
+    for(let j=0;j<output.length;j++){
+        subset.push([...output[j],nums[i]])
     }
-    return subarr
+    output.push(...subset)
+    }
+    return output
 };
