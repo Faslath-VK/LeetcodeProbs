@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2507-number-of-common-factors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
