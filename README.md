@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Queue
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3194-find-words-containing-character) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3311-ant-on-the-boundary](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2756-buy-two-chocolates](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Faslath-VK/LeetcodeProbs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String Matching
 |  |
 | ------- |
